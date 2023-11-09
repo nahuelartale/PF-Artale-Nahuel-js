@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Toyota",
+    "imagen": "imagenes/images.jpg",
+    "precio": 15.99
+  },
+  {
+    "id": 2,
+    "nombre": "Lamborghini",
+    "imagen": "imagenes/lambo.jpg",
+    "precio": 10.99
+  },
+  {
+    "id": 3,
+    "nombre": "Macho Car",
+    "imagen": "imagenes/macho-car.jpg",
+    "precio": 99.99
+  },
+  {
+    "id": 4,
+    "nombre": "Porsche",
+    "imagen": "imagenes/porsche.jpg",
+    "precio": 20.99
+  }
+]
